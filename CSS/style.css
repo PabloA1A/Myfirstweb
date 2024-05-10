@@ -10,3 +10,7 @@ body {
 .about-text {
   color: white;
 }
+
+.container {
+  min-width: 100%;
+}
