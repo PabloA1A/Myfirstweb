@@ -3,14 +3,18 @@
   height: 200px;
 }
 
-body {
-  background: #d1e6dd;
-}
-
 .about-text {
   color: white;
 }
 
 .container {
   min-width: 100%;
+}
+
+.header {
+  min-height: 100%;
+}
+
+body {
+  background-color: #d1e6dd;
 }
